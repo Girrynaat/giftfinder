@@ -1,0 +1,6 @@
+{
+  "name": "Gift Finder with Delivery Deadline",
+  "description": "Agentic AI shopping assistant for Agentic AI Hackathon 2026 (Powered by Ziro.Digital). Recommends gifts under ₹1,500 with delivery deadline verification, human approval, mock cart simulation, and independent verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
